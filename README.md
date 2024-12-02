@@ -1,7 +1,7 @@
 
 <!--suppress HtmlDeprecatedAttribute -->
 
-<!--suppress HtmlDeprecatedAttribute -->**
+<!--suppress HtmlDeprecatedAttribute -->
 
 <h1 align="center">PHPLint</h1>
 
